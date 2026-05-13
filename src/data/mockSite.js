@@ -274,7 +274,7 @@ export const homePayload = {
     },
     primaryImage:
       "https://gd-hbimg.huaban.com/fcd4cf79261fab484cbe54ce30935a5a85c281172074e1-899wrY_fw658webp",
-    secondaryImage: heroTwo
+    secondaryImage: "https://i.pinimg.com/736x/15/98/9e/15989e1ec5fedb9e126f45a71b1ecccc.jpg"
   },
   categories,
   featuredProducts: products.slice(0, 4),
