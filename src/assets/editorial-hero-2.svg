@@ -1,0 +1,14 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#D7D3CE"/>
+  <rect x="88" y="82" width="1024" height="1236" rx="40" fill="#F7F3EE"/>
+  <circle cx="525" cy="258" r="128" fill="#CDB6A3"/>
+  <path d="M419 419C419 357.144 469.144 307 531 307H557C618.856 307 669 357.144 669 419V506H419V419Z" fill="#2F2925"/>
+  <path d="M331 629C331 535.666 407.666 459 501 459H615C708.334 459 785 535.666 785 629V1117H331V629Z" fill="#93877D"/>
+  <path d="M291 586H422V1117H291V586Z" fill="#86786B"/>
+  <path d="M694 586H825V1117H694V586Z" fill="#86786B"/>
+  <rect x="804" y="190" width="212" height="120" rx="20" fill="#1F1A17"/>
+  <text x="844" y="244" fill="#FAF3EA" font-family="Arial, sans-serif" font-size="32" letter-spacing="5">EDIT</text>
+  <rect x="130" y="955" width="236" height="182" rx="20" fill="#C1B2A4"/>
+  <text x="166" y="1038" fill="#2C2420" font-family="Arial, sans-serif" font-size="24" letter-spacing="4">MINIMAL</text>
+  <text x="166" y="1086" fill="#2C2420" font-family="Arial, sans-serif" font-size="24" letter-spacing="4">JEWELRY</text>
+</svg>

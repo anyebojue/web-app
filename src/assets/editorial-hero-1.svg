@@ -1,0 +1,14 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#E8DED0"/>
+  <rect x="88" y="82" width="1024" height="1236" rx="40" fill="#F7F2EA"/>
+  <circle cx="700" cy="256" r="128" fill="#E0B783"/>
+  <path d="M575 424C575 362.144 625.144 312 687 312H713C774.856 312 825 362.144 825 424V513H575V424Z" fill="#1D140F"/>
+  <path d="M470 638C470 542.97 547.97 465 643 465H761C856.03 465 934 542.97 934 638V1110H470V638Z" fill="#B56130"/>
+  <path d="M493 777H911V1110H493V777Z" fill="#D88A4A"/>
+  <path d="M380 620C380 589.072 405.072 564 436 564H538V1110H380V620Z" fill="#C97637"/>
+  <path d="M866 564H968C998.928 564 1024 589.072 1024 620V1110H866V564Z" fill="#C97637"/>
+  <rect x="166" y="1046" width="248" height="152" rx="22" fill="#D6C4AF"/>
+  <rect x="786" y="990" width="248" height="208" rx="22" fill="#221914"/>
+  <text x="220" y="1118" fill="#1D140F" font-family="Arial, sans-serif" font-size="36" letter-spacing="6">NEW IN</text>
+  <text x="826" y="1070" fill="#FFF7EF" font-family="Arial, sans-serif" font-size="28" letter-spacing="5">TREND EDIT</text>
+</svg>
