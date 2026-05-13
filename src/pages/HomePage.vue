@@ -5,10 +5,8 @@
         <article class="asos-hero__main">
           <div class="asos-hero__image" :style="{ backgroundImage: `url(${payload.hero.primaryImage})` }"></div>
           <div class="asos-hero__copy">
-            <span class="demo-chip">Demo Frontend</span>
             <p class="eyebrow">NEW IN</p>
-            <h1>JEWELRY FOR NOW</h1>
-            <p class="lede">用更像时尚零售站的模块密度、模特视觉和分类入口，来展示 Xuping 的业务内容。</p>
+            <h1>JEWELRY NOW</h1>
             <div class="hero-actions">
               <RouterLink class="button button--primary" to="/products">SHOP NEW IN</RouterLink>
               <RouterLink class="button button--ghost" to="/topics/spring-edit">VIEW TREND EDIT</RouterLink>
