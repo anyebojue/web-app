@@ -273,7 +273,7 @@ export const homePayload = {
       subtitle: "Layered shine, modern gifting, premium merchandising"
     },
     primaryImage:
-      "https://preview.qiantucdn.com/58pic/ali_magnify/Xy/4R/sJ/1g/v0xqocufzjrg9a43kei8dmhw6tlpnb52_PIC2018.jpg!qt_h320_webp",
+      "https://gd-hbimg.huaban.com/fcd4cf79261fab484cbe54ce30935a5a85c281172074e1-899wrY_fw658webp",
     secondaryImage: heroTwo
   },
   categories,
