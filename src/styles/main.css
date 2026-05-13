@@ -258,6 +258,11 @@ h3 {
   color: #ffffff;
 }
 
+.hero-side-card--photo {
+  background-size: cover;
+  background-position: center;
+}
+
 .hero-side-card--copy a {
   font-weight: 800;
   letter-spacing: 0.08em;

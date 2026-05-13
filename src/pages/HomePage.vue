@@ -23,7 +23,10 @@
             </div>
           </article>
 
-          <article class="hero-side-card hero-side-card--copy">
+          <article
+            class="hero-side-card hero-side-card--copy hero-side-card--photo"
+            :style="{ backgroundImage: `linear-gradient(180deg, rgba(0,0,0,0.12), rgba(0,0,0,0.72)), url(${payload.hero.tertiaryImage})` }"
+          >
             <p>WHOLESALE READY</p>
             <h3>Layered shine, gifting sets and fast-moving fashion assortments.</h3>
             <RouterLink to="/inquiry">ENQUIRE NOW</RouterLink>
